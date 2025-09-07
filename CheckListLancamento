@@ -1,0 +1,18 @@
+# Esse arquivo é referente as atividades que devem ser pré-realizadas antes da publicação do projeto no formato OPEN SOURCE.
+# Icones: ✅ = Concluído | ❌ = Não Concluído | ⚠️ = Em Progresso
+
+Documentação:
+-O Projeto possui um arquivo LICENSE com uma licença open source. ✅
+-O Projeto possui documentação básica (README, CONTRIBUTING).✅
+-O nome é fácil de lembrar, dá alguma ideia do que o projeto faz e não entra em conflito com um projeto existente ou infringe alguma marca registrada.✅
+-A fila de issues está atualizada, com issues claramente organizadas e rotuladas.✅
+-O projeto possui um arquivo CHANGELOG descrevendo as mudanças entre as versões.
+
+Code:
+-O projeto utiliza convenções de código consistentes e nomes de funções/métodos/variáveis claros.✅
+-O código é comentado de forma clara, documentando intenções e edge cases.✅
+-Não há material sensível no histórico de revisões, issues, ou pull requests (por exemplo, senhas ou outras informações não-públicas).✅
+
+Pessoas:
+-Alguém está engajado em administrar as interações com a comunidade (responder a issues, revisar e 'merjar' pull requests).✅
+-Pelo menos duas pessoas têm acesso administrativo ao projeto.❌
